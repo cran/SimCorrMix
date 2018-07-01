@@ -66,7 +66,7 @@ Hoeffding W. Scale-invariant correlation theory. In: Fisher NI, Sen PK, editors.
 Yahav I & Shmueli G (2012). On Generating Multivariate Poisson Data in Management Science Applications. Applied Stochastic
     Models in Business and Industry, 28(1):91-102. \doi{10.1002/asmb.901}.
 
-Yee TW (2017). VGAM: Vector Generalized Linear and Additive Models. \cr \url{https://CRAN.R-project.org/package=VGAM}.
+Yee TW (2018). VGAM: Vector Generalized Linear and Additive Models. R package version 1.0-5. \url{https://CRAN.R-project.org/package=VGAM}.
 }
 \seealso{
 \code{\link[SimMultiCorrData]{power_norm_corr}}, \code{\link[SimMultiCorrData]{find_constants}},
